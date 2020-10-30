@@ -2,7 +2,7 @@ body{
     background-color: #004b5c;
 }
 
-.header{
+div.header{
     border-color: black;
     border-width: 50px;
     margin-left: 20%;
