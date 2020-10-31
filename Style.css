@@ -22,7 +22,9 @@ body{
     margin-left: 25%;
     margin-right: 25%;
     margin-top: 0px;
+    margin-bottom: 5%;
     border-radius: 0px 0px 25px 25px;
     background-color: #4b656b;
+    height: auto;
     text-align: center;
 }
