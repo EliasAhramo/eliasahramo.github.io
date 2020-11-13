@@ -24,3 +24,7 @@ button{
     border-color: white;
     font-size: 25;
 }
+
+hr {
+    color: black;
+}
