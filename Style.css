@@ -17,3 +17,10 @@ body{
     padding: 5px;
     text-align: left;
 }
+
+button{
+    width: 150px;
+    height: 50;
+    border-color: white;
+    font-size: 25;
+}
