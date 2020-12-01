@@ -1,6 +1,6 @@
 body{
     margin-top: 200px;
-    font-family: Arcon-Regular;
+    font-family: Tahoma, sans-serif;
 }
 
 .header{
@@ -8,7 +8,6 @@ body{
     margin-right: 20%;
     margin-top: 0px;
     text-align: center;
-    font-family: Arcon-Regular;
 }
 
 .MainBody{
@@ -18,7 +17,6 @@ body{
     margin-bottom: 5%;
     padding: 5px;
     text-align: left;
-    font-family: Arcon-Regular;
 }
 
 button{
