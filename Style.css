@@ -29,3 +29,8 @@ button{
 hr {
     color: black;
 }
+
+img {
+    width: 25%;
+    float: right;
+}
